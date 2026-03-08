@@ -1,10 +1,10 @@
 {
-    "version": "1.003",
-    "version_str": "V001003r",
-    "fecha": "2026-03-07",
-    "fecha_timestamp": 20260307,
-    "url_descarga": "https://github.com/rmellado/Procesa_PDF/releases/download/v1.003/procesa_pdf.exe",
-    "notas": "Prueba",
-    "tamano_bytes": 4671128,
-    "md5": "656166688b773e9ce1243413884e920c"
+    "version": "1.001",
+    "version_str": "V001001r",
+    "fecha": "2026-03-08",
+    "fecha_timestamp": 20260308,
+    "url_descarga": "https://github.com/rmellado/Procesa_PDF/releases/download/v1.001/procesa_pdf.exe",
+    "notas": "Version 1.001",
+    "tamano_bytes": 4668212,
+    "md5": "0a663f1ecedef1e144b427e1408a1031"
 }
